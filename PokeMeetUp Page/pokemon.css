@@ -1,0 +1,18 @@
+body{
+    background-image: url("img/carrusel7.jpg");
+     
+}
+
+.pkmnItem:hover{
+    background: rgb(246, 223, 76);    
+    cursor:pointer;
+}
+
+.listaPokes h3{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 5px 5px black;
+   
+}

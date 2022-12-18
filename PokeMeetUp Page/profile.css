@@ -1,0 +1,121 @@
+body{
+    background-color:black ;
+}
+
+.loginForm{
+ width: 100%;
+ height: 2800%;
+ background-image: url("img/carrusel5.jpg");
+
+
+}
+
+.loginForm2{
+    margin:0 auto;
+    
+    height: 300%;
+    width: 1650px!important;
+    
+    background: rgb(157, 101, 22);
+}
+
+
+.loginForm3{
+    margin:0 auto;
+    
+    height: 300%;
+    width: 1630px!important;
+    
+    background: rgb(220, 219, 219);
+    
+    text-align: center;
+    color: rgb(70, 70, 70);
+}
+
+
+
+.loginForm3 img{
+    margin:0 auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+
+
+.loginForm3 input{
+    margin:0 auto;
+    
+    width: 350px;
+    margin: auto;
+}
+
+.chatLog{
+    margin:0 auto;
+    padding-top: 5px;
+    width: 100%;
+    height: 100px;
+    background: rgb(205, 129, 22);
+}
+
+
+.iconoUsuario{
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+textarea{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 1300px !important;
+    height: 100px !important;
+}
+
+.chatLog button{
+    border: none;
+    background: rgb(76, 7, 90);
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 50px;
+}
+
+
+.forumMessage{
+    margin:0 auto;
+    background: rgb(179, 179, 179);
+    width: 1550px;
+    
+    border-radius: 8px;
+    border: 4px solid rgb(202, 202, 202);
+}
+
+
+.forumMessage .iconoUsuario{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.MessageText{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: rgb(219, 217, 217);
+    width: 1400px;
+    height: 120px;
+    text-align: justify;
+    border-radius: 8px;
+    padding-top: 15px;
+    padding-left: 15px;
+    
+}
+
+a{
+    text-decoration:none;
+}
+
+

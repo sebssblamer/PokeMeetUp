@@ -1,0 +1,13 @@
+.imgOak{
+    width: 450px;
+    height: 500px;
+    margin-top: 60px;
+}
+
+.formLogin{
+    margin-top: 90px;
+}
+
+.errorMsg{
+    color: red;
+}
